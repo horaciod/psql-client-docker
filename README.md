@@ -1,8 +1,7 @@
 # psql-client-docker
 Containerized PostgreSQL client for executing SQL commands in containerized environments
 
-The `psql-client` image is stored on Docker Hub in the [rtdl/psql-client repository](https://hub.docker.com/r/rtdl/psql-client).
-
+--- fork no completo
 
 ## Crear Imagen con 
 docker build -t pgclientlocal . 
